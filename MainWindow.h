@@ -48,6 +48,7 @@ __published:	// IDE-managed Components
 	TLabel *Label11;
 	TButton *btnExit;
 	TButton *btnClearFile;
+	TStaticText *StaticText1;
 	void __fastcall btnExitClick(TObject *Sender);
 	void __fastcall btnStopAClick(TObject *Sender);
 	void __fastcall btnStopBClick(TObject *Sender);

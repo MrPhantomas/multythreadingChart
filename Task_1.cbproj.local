@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.965,D:\YandexDisk\Phantom\RAD\Proj_2\Unit1.dfm=D:\YandexDisk\Phantom\RAD\Proj_2\MainWindow.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.965,D:\YandexDisk\Phantom\RAD\Proj_2\Unit1.cpp=D:\YandexDisk\Phantom\RAD\Proj_2\MainWindow.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.972,D:\YandexDisk\Phantom\RAD\Proj_2\Project1.cbproj=D:\YandexDisk\Phantom\RAD\Proj_2\Task_1.cbproj</Transaction>
     <Transaction>1899.12.30 00:00:00.000.273,D:\YandexDisk\Phantom\RAD\Project1.cbproj=D:\YandexDisk\Phantom\RAD\Project1.cbproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.943,D:\YandexDisk\Phantom\RAD\Proj_2\Project1PCH1.h=D:\YandexDisk\Phantom\RAD\Proj_2\Task_1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.965,D:\YandexDisk\Phantom\RAD\Proj_2\MainWindow.h=D:\YandexDisk\Phantom\RAD\Proj_2\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.965,D:\YandexDisk\Phantom\RAD\Proj_2\MainWindow.dfm=D:\YandexDisk\Phantom\RAD\Proj_2\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.965,D:\YandexDisk\Phantom\RAD\Proj_2\MainWindow.cpp=D:\YandexDisk\Phantom\RAD\Proj_2\Unit1.cpp</Transaction>
     <Transaction>1899.12.30 00:00:00.000.092,=D:\YandexDisk\Phantom\RAD\Project1PCH1.h</Transaction>
     <Transaction>1899.12.30 00:00:00.000.269,=D:\YandexDisk\Phantom\RAD\Unit1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.965,D:\YandexDisk\Phantom\RAD\Proj_2\Unit1.h=D:\YandexDisk\Phantom\RAD\Proj_2\MainWindow.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.972,D:\YandexDisk\Phantom\RAD\Proj_2\Task_1.cbproj=D:\YandexDisk\Phantom\RAD\Proj_2\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.943,D:\YandexDisk\Phantom\RAD\Proj_2\Task_1PCH1.h=D:\YandexDisk\Phantom\RAD\Proj_2\Project1PCH1.h</Transaction>
   </Transactions>
 	<BT_BuildType>Debug</BT_BuildType>
 </BorlandProject>
